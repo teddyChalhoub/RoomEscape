@@ -55,7 +55,7 @@ function App(props) {
         isConsequence(true);
       }
     } else {
-      if (textValue !== "Terminarás este juego sano y salvo o ...?") {
+      if (textValue !== "respetuosamente tuyo, sin malas intenciones, solo por diversión") {
         if (trial > 0) {
           trial--;
           alert(`Still have on ${trial + 1} trial`);

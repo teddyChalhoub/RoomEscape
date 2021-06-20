@@ -29,7 +29,7 @@
   },
   {
     "id": 5,
-    "chapter 5": "Congrats you got to this Stage? Congrats for me actually (evil laugh). You see your friend covered with red. is it his blood or ...? the smell is awfull. This is you assignment, write the given phrase in Spanish : \"will you finish this game safe and sound or ...?\"",
+    "chapter 5": "Congrats you got to this Stage? Congrats for me actually (evil laugh). You see your friend covered with red. is it his blood or ...? the smell is awfull. This is you assignment, write the given phrase in Spanish : \"Respectfully yours,no bad intentions,just for fun\"",
     "options": [{"answer":"Take a hint","boolean":false},{"answer":"submit","boolean":false}],
     "consequences": ["stage 1"],
     "trials":1
